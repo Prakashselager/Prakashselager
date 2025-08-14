@@ -7,7 +7,7 @@ Passionate about building scalable applications and contributing to cross-functi
 
 ## 🧠 About Me
 - 🎓 **BCA** (2022–2025) from JSS SMI College, Dharwad — **9.02 CGPA**   
-- 📚 Strong foundation in programming, databases, and web technologies  
+- 📚 Strong foundation in programming, databases and web technologies  
 - 💡 Keen interest in full-stack development and problem-solving  
 - 🏆 Consistent academic performer with PUC (94.50%) and SSLC (92.48%)  
 
