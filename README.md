@@ -1,4 +1,4 @@
-#  Hey there 👋👋, I’m Prakash S Elager
+#  Hey there 👋, I’m Prakash S Elager
 
 🌟 Aspiring **Software Engineer** with strong academic background and hands-on **web development** experience.  
 Passionate about building scalable applications and contributing to cross-functional teams. I love applying programming knowledge to solve real-world problems.
