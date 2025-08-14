@@ -25,9 +25,9 @@ A PHP–MySQL based web application for tracking helmet inventory, user orders, 
 ## ⚙️ Tech Toolbox
 
 **💻 Languages & Frameworks:**  
-# ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
  
 
 **🗄️ Databases & Concepts:**  
