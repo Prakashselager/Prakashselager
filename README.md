@@ -15,7 +15,7 @@ Passionate about building scalable applications and contributing to cross-functi
 
 ## 🚀 Projects
 
-### [Helmet Management System](http://Prakashselager/HMS)  
+### [Helmet Management System](https://github.com/Prakashselager/Helmet-Management-System)
 A PHP–MySQL based web application for tracking helmet inventory, user orders, and safety reports.  
 **Features:**
 - Login & authentication
