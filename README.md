@@ -24,6 +24,17 @@ A PHP–MySQL based web application for tracking helmet inventory, user orders, 
   
 ## ⚙️ Tech Toolbox
 
+
+
+### [AI Marketing Copy Generator](https://github.com/Prakashselager/AI-Marketing-Copy-Generator) 
+A PHP–MySQL based web application for tracking helmet inventory, user orders, and safety reports.  
+**Features:**
+- Login & authentication
+- Generate Content 
+- Use for Social Media
+  
+## ⚙️ Tech Toolbox
+
 **💻 Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
