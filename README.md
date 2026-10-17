@@ -15,6 +15,31 @@ Passionate about building scalable applications and contributing to cross-functi
 
 ## 🚀 Projects
 
+# BrandEve Solutions — Digital Marketing Website
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+A modern, responsive digital marketing website for **BrandEve Solutions** — a
+full-service brand activation, event management, and marketing agency.
+
+---
+
+## ✨ Features
+
+### Public Website
+- 🎨 Modern hero section with animated gradient text
+- 🏢 Trust bar with client logos (auto-scrolling marquee)
+- 🧩 Services bento grid — Corporate Events, Branding, Marketing,
+  Launches, Shows & Concerts, Weddings
+- 💼 Portfolio showcase with interactive hover cards and lightbox
+- 💬 Testimonials section
+- 📞 Contact form with database storage and email notifications
+- 📱 Fully responsive layout (mobile, tablet, desktop)
+
+
 ### [Helmet Management System](https://github.com/Prakashselager/Helmet-Management-System)
 A PHP–MySQL based web application for tracking helmet inventory, user orders, and safety reports.  
 **Features:**
