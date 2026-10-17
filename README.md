@@ -15,7 +15,7 @@ Passionate about building scalable applications and contributing to cross-functi
 
 ## 🚀 Projects
 
-# BrandEve Solutions — Digital Marketing Website(https://github.com/Prakashselager/Digital-Marketing-Website)
+# [BrandEve Solutions — Digital Marketing Website](https://github.com/Prakashselager/Digital-Marketing-Website)
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)
