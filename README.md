@@ -15,12 +15,29 @@ Passionate about building scalable applications and contributing to cross-functi
 
 ## 🚀 Projects
 
-### [Helmet Management System](https://github.com/Prakashselager/Helmet-Management-System)
-A PHP–MySQL based web application for tracking helmet inventory, user orders, and safety reports.
+# BrandEve Solutions — Digital Marketing Website
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+### [BrandEve Solutions - Digital Marketing Website](https://github.com/YOUR-USERNAME/brandeve-website)
+A modern, fully responsive PHP–MySQL web application for a digital marketing and event management agency, featuring a dynamic public site and a secure admin panel.  
 **Features:**
-- Login & authentication
-- Cart system
-- Order tracking.
+- Secure admin authentication & dashboard
+- Enquiry management (read/unread, soft-delete, restore)
+- Dynamic portfolio & individual service pages
+- Contact form with database storage & Brevo email notifications
+- Responsive modern UI with scroll animations and lightboxes
+
+---
+
+## ✨ Features
+
+### Public Website
+- 🎨 Modern hero section with animated gradient text
+...
 
 ### [Helmet Management System](https://github.com/Prakashselager/Helmet-Management-System)
 A PHP–MySQL based web application for tracking helmet inventory, user orders, and safety reports.  
