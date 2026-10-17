@@ -45,8 +45,6 @@ A PHP–MySQL based web application for tracking helmet inventory, user orders, 
 - Login & authentication
 - Cart system
 - Order tracking
-  
-## ⚙️ Tech Toolbox
 
 
 
